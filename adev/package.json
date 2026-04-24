@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@angular-devkit/build-angular": "20.2.0-next.2",
+    "@angular-devkit/build-angular": "20.2.0",
     "@angular/animations": "workspace:*",
     "@angular/build": "20.2.0-next.2",
     "@angular/cdk": "20.2.0-next.2",
